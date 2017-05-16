@@ -1,4 +1,5 @@
-# ServerClientApp - Baza informacji o Robercie Lewandowskim
+# ServerClientApp
+## Baza informacji o Robercie Lewandowskim
 
 > Author: Jakub Pyda
 
